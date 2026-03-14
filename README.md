@@ -15,7 +15,7 @@ This project implements a simple 2-layer MLP (Multi-Layer Perceptron) for MNIST 
 > DISCLAIMER: ensure you have a GPU with compute capability 5.0 or greater (at least maxwell architecture). See compatibility guide: https://docs.nvidia.com/deeplearning/cudnn/latest/reference/support-matrix.html
 
 ```bash
-git clone https://github.com/Infatoshi/mnist-cuda
+git clone https//github.com/mehjabeen05/MNIST-deep-learning-training-using-CUDA-and-GPU-acceleration..git
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
